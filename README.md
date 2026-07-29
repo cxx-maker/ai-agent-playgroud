@@ -1,4 +1,4 @@
-# AI Agents Playground
+# AI Agent Playground
 
 我的 AI Agent 练习项目集，基于 LangChain + DeepSeek 构建。
 
