@@ -10,6 +10,7 @@ from langchain_chroma import Chroma
 from langchain.agents import create_agent
 from langchain.tools import tool
 from langchain_deepseek import ChatDeepSeek
+
 load_dotenv()
 
 def build_vertorstore():

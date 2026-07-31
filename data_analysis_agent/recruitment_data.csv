@@ -1,0 +1,501 @@
+﻿岗位名称,公司名称,城市,薪资范围,经验要求,学历要求,技能要求,行业,公司规模,发布日期
+AI算法工程师,华为科技,北京,28-45K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、Redis、Spark、MySQL,互联网,<50人,2026-07-17
+深度学习工程师,小米数据,杭州,51-73K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、AWS、机器学习、TensorFlow,电商零售,1000-5000人,2026-05-08
+测试开发工程师,快手,广州,9-13K,1-3年,本科,Python、Git、Linux、计算机视觉、高并发、LangChain,互联网,1000-5000人,2026-07-19
+NLP工程师,滴滴数据,上海,23-31K,5-10年,大专,Python、Git、Linux、Django、MySQL、TensorFlow,教育,200-1000人,2026-05-12
+AI算法工程师,网易网络,杭州,12-16K,应届生,博士,Python、Git、Linux、PyTorch、深度学习、数据分析、FastAPI、机器学习,金融科技,5000人以上,2026-05-10
+数据分析师,B站网络,西安,11-15K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、高并发、FastAPI、深度学习,互联网,50-200人,2026-06-26
+Python后端工程师,字节科技,成都,16-21K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、AWS、数据分析、Spark,电商零售,200-1000人,2026-05-19
+数据分析师,贝壳智能,杭州,39-67K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、Docker、MongoDB、REST API,金融科技,<50人,2026-06-09
+AI算法工程师,字节网络,深圳,18-26K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、机器学习、高并发、TensorFlow,金融科技,5000人以上,2026-06-12
+全栈工程师,贝壳科技,成都,5-9K,应届生,硕士,Python、Git、Linux、LangChain、AWS、Flask,金融科技,200-1000人,2026-06-02
+NLP工程师,百度智能,杭州,10-14K,1-3年,硕士,Python、Git、Linux、Spark、PyTorch、Redis,智能制造,200-1000人,2026-05-24
+深度学习工程师,字节数据,北京,19-30K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、高并发、Flask、分布式,广告营销,5000人以上,2026-05-29
+数据分析师,小米智能,广州,34-51K,10年以上,博士,Python、Git、Linux、Pandas、数据分析、计算机视觉、AWS、MongoDB,广告营销,<50人,2026-05-03
+深度学习工程师,阿里智能,杭州,11-16K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、Redis、MySQL、LangChain,金融科技,<50人,2026-05-21
+测试开发工程师,网易数据,上海,31-44K,10年以上,本科,Python、Git、Linux、MongoDB、分布式、Spark,教育,1000-5000人,2026-05-29
+机器学习工程师,贝壳信息,杭州,11-19K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、MySQL、Docker、分布式,游戏,200-1000人,2026-06-06
+AI算法工程师,B站科技,杭州,15-25K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、Redis、AWS、Docker,互联网,5000人以上,2026-06-06
+Python后端工程师,贝壳网络,上海,9-14K,1-3年,本科,Python、Git、Linux、MySQL、REST API、TensorFlow、Django、数据分析,互联网,1000-5000人,2026-05-30
+全栈工程师,知乎科技,武汉,12-20K,3-5年,博士,Python、Git、Linux、MongoDB、REST API、TensorFlow,智能制造,<50人,2026-07-06
+Python后端工程师,腾讯智能,武汉,21-25K,10年以上,本科,Python、Git、Linux、MySQL、REST API、Redis、LangChain、数据分析,金融科技,5000人以上,2026-07-20
+深度学习工程师,贝壳数据,北京,55-77K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、机器学习、FastAPI、NLP,教育,200-1000人,2026-05-17
+机器学习工程师,快手,深圳,26-44K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、Docker、Redis、FastAPI,医疗健康,50-200人,2026-07-29
+测试开发工程师,滴滴科技,上海,12-17K,1-3年,硕士,Python、Git、Linux、高并发、AWS、PyTorch,医疗健康,<50人,2026-06-04
+数据分析师,京东信息,广州,9-13K,应届生,大专,Python、Git、Linux、Pandas、数据分析、Django、LangChain、MongoDB,广告营销,200-1000人,2026-06-24
+Python后端工程师,腾讯,上海,22-33K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、机器学习、Django、Spark,游戏,5000人以上,2026-06-18
+Python后端工程师,腾讯信息,上海,7-10K,应届生,本科,Python、Git、Linux、MySQL、REST API、TensorFlow、深度学习、NLP,互联网,200-1000人,2026-05-17
+深度学习工程师,贝壳智能,杭州,13-16K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、Django、分布式、Spark,互联网,50-200人,2026-07-11
+测试开发工程师,百度数据,南京,7-10K,1-3年,硕士,Python、Git、Linux、Spark、FastAPI、Django,广告营销,200-1000人,2026-07-17
+全栈工程师,小米网络,杭州,11-15K,1-3年,大专,Python、Git、Linux、LangChain、计算机视觉、AWS,游戏,5000人以上,2026-06-18
+测试开发工程师,百度智能,北京,7-12K,应届生,硕士,Python、Git、Linux、计算机视觉、深度学习、数据分析,金融科技,1000-5000人,2026-06-27
+计算机视觉工程师,贝壳,杭州,14-20K,3-5年,大专,Python、Git、Linux、Django、计算机视觉、数据分析,金融科技,200-1000人,2026-05-25
+计算机视觉工程师,滴滴数据,成都,5-8K,应届生,硕士,Python、Git、Linux、REST API、Docker、Django,游戏,1000-5000人,2026-06-08
+数据分析师,滴滴信息,广州,26-40K,5-10年,大专,Python、Git、Linux、Pandas、数据分析、深度学习、AWS、高并发,广告营销,50-200人,2026-07-04
+NLP工程师,滴滴智能,武汉,7-9K,1-3年,大专,Python、Git、Linux、FastAPI、机器学习、分布式,教育,50-200人,2026-05-07
+Python后端工程师,字节网络,北京,10-15K,1-3年,博士,Python、Git、Linux、MySQL、REST API、数据分析、AWS、分布式,教育,50-200人,2026-06-07
+Python后端工程师,百度数据,上海,21-32K,5-10年,本科,Python、Git、Linux、MySQL、REST API、Docker、Spark、Flask,广告营销,5000人以上,2026-05-25
+NLP工程师,B站科技,成都,15-24K,5-10年,博士,Python、Git、Linux、分布式、LangChain、AWS,广告营销,50-200人,2026-05-31
+全栈工程师,华为信息,武汉,5-8K,应届生,硕士,Python、Git、Linux、Docker、分布式、FastAPI,游戏,50-200人,2026-06-18
+深度学习工程师,快手智能,上海,39-55K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、Spark、Pandas、TensorFlow,游戏,1000-5000人,2026-06-01
+Python后端工程师,贝壳智能,成都,11-17K,3-5年,博士,Python、Git、Linux、MySQL、REST API、AWS、LangChain、机器学习,游戏,1000-5000人,2026-05-22
+Python后端工程师,百度网络,南京,11-15K,3-5年,博士,Python、Git、Linux、MySQL、REST API、数据分析、PyTorch、Redis,游戏,50-200人,2026-07-14
+Python数据工程师,携程信息,深圳,10-14K,应届生,硕士,Python、Git、Linux、Pandas、数据分析、NLP、LangChain、Spark,医疗健康,<50人,2026-07-03
+Python数据工程师,拼多多科技,北京,39-73K,10年以上,大专,Python、Git、Linux、Pandas、数据分析、TensorFlow、PyTorch、FastAPI,教育,<50人,2026-05-08
+计算机视觉工程师,知乎数据,深圳,9-13K,1-3年,本科,Python、Git、Linux、LangChain、计算机视觉、Flask,金融科技,50-200人,2026-07-16
+全栈工程师,滴滴智能,上海,39-52K,10年以上,大专,Python、Git、Linux、Django、MySQL、MongoDB,教育,<50人,2026-05-05
+全栈工程师,拼多多智能,上海,37-48K,10年以上,大专,Python、Git、Linux、分布式、深度学习、PyTorch,游戏,1000-5000人,2026-06-06
+AI算法工程师,京东网络,南京,20-32K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、机器学习、高并发、REST API,广告营销,1000-5000人,2026-07-08
+计算机视觉工程师,字节信息,广州,11-18K,3-5年,本科,Python、Git、Linux、高并发、NLP、深度学习,互联网,1000-5000人,2026-06-03
+测试开发工程师,拼多多信息,深圳,22-35K,5-10年,本科,Python、Git、Linux、LangChain、REST API、PyTorch,教育,<50人,2026-06-17
+深度学习工程师,知乎数据,南京,28-37K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、计算机视觉、LangChain、Pandas,教育,200-1000人,2026-05-29
+计算机视觉工程师,贝壳数据,成都,14-24K,5-10年,硕士,Python、Git、Linux、LangChain、机器学习、分布式,教育,<50人,2026-05-21
+深度学习工程师,小米科技,成都,9-14K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、MongoDB、计算机视觉、Docker,教育,200-1000人,2026-05-30
+深度学习工程师,阿里数据,成都,12-17K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、MySQL、高并发、计算机视觉,电商零售,1000-5000人,2026-05-23
+AI算法工程师,知乎网络,北京,52-91K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、机器学习、REST API、Docker,金融科技,1000-5000人,2026-06-04
+Python数据工程师,京东科技,上海,47-58K,10年以上,大专,Python、Git、Linux、Pandas、数据分析、FastAPI、Redis、Spark,教育,5000人以上,2026-05-19
+机器学习工程师,贝壳信息,武汉,27-41K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、Docker、FastAPI、高并发,医疗健康,<50人,2026-05-19
+数据分析师,百度,杭州,13-20K,1-3年,大专,Python、Git、Linux、Pandas、数据分析、机器学习、TensorFlow、FastAPI,医疗健康,200-1000人,2026-06-08
+Python数据工程师,小米网络,上海,15-22K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、LangChain、Docker、MySQL,互联网,50-200人,2026-07-16
+全栈工程师,B站数据,广州,23-37K,5-10年,大专,Python、Git、Linux、AWS、REST API、Spark,广告营销,<50人,2026-06-22
+计算机视觉工程师,网易,北京,20-33K,5-10年,硕士,Python、Git、Linux、MongoDB、分布式、PyTorch,医疗健康,5000人以上,2026-07-19
+Python后端工程师,网易科技,深圳,20-33K,5-10年,博士,Python、Git、Linux、MySQL、REST API、Redis、AWS、NLP,游戏,200-1000人,2026-05-17
+测试开发工程师,贝壳数据,上海,10-18K,1-3年,硕士,Python、Git、Linux、REST API、TensorFlow、Pandas,金融科技,200-1000人,2026-05-28
+全栈工程师,阿里数据,成都,6-8K,应届生,博士,Python、Git、Linux、AWS、计算机视觉、Spark,广告营销,<50人,2026-05-22
+深度学习工程师,滴滴网络,广州,45-59K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、LangChain、Django、计算机视觉,互联网,5000人以上,2026-05-02
+机器学习工程师,B站,上海,19-27K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、计算机视觉、MongoDB、机器学习,游戏,1000-5000人,2026-05-09
+Python数据工程师,携程科技,杭州,29-48K,5-10年,本科,Python、Git、Linux、Pandas、数据分析、MySQL、LangChain、Spark,智能制造,5000人以上,2026-05-15
+全栈工程师,知乎科技,北京,18-26K,3-5年,硕士,Python、Git、Linux、REST API、分布式、NLP,广告营销,200-1000人,2026-06-03
+深度学习工程师,华为网络,杭州,48-74K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Pandas、分布式、Flask,广告营销,<50人,2026-07-25
+数据分析师,美团网络,西安,29-43K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、Docker、Spark、分布式,金融科技,1000-5000人,2026-07-18
+全栈工程师,字节信息,成都,27-37K,10年以上,博士,Python、Git、Linux、深度学习、Spark、REST API,互联网,5000人以上,2026-05-05
+AI算法工程师,字节网络,杭州,26-39K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、Docker、AWS、Django,医疗健康,<50人,2026-07-18
+Python后端工程师,拼多多信息,成都,4-7K,应届生,硕士,Python、Git、Linux、MySQL、REST API、分布式、Django、高并发,电商零售,<50人,2026-06-05
+计算机视觉工程师,知乎智能,南京,19-32K,10年以上,本科,Python、Git、Linux、Pandas、LangChain、PyTorch,广告营销,200-1000人,2026-07-12
+NLP工程师,拼多多智能,深圳,7-9K,应届生,博士,Python、Git、Linux、LangChain、Pandas、机器学习,教育,1000-5000人,2026-06-22
+Python数据工程师,拼多多智能,上海,16-20K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、NLP、LangChain、PyTorch,互联网,5000人以上,2026-06-23
+Python数据工程师,华为数据,广州,12-19K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、Docker、Redis、TensorFlow,医疗健康,1000-5000人,2026-07-06
+Python后端工程师,滴滴信息,成都,6-9K,1-3年,大专,Python、Git、Linux、MySQL、REST API、高并发、NLP、MongoDB,医疗健康,50-200人,2026-06-07
+全栈工程师,美团网络,武汉,11-20K,3-5年,硕士,Python、Git、Linux、NLP、REST API、计算机视觉,金融科技,1000-5000人,2026-07-21
+Python后端工程师,B站信息,广州,25-34K,10年以上,大专,Python、Git、Linux、MySQL、REST API、数据分析、NLP、Docker,教育,1000-5000人,2026-05-05
+Python后端工程师,字节数据,西安,10-14K,3-5年,本科,Python、Git、Linux、MySQL、REST API、Pandas、Docker、Flask,互联网,<50人,2026-06-01
+全栈工程师,华为智能,武汉,5-8K,应届生,大专,Python、Git、Linux、REST API、数据分析、MongoDB,电商零售,1000-5000人,2026-07-13
+AI算法工程师,网易,武汉,35-53K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、LangChain、数据分析、Docker,智能制造,5000人以上,2026-05-03
+测试开发工程师,小米,北京,22-33K,5-10年,硕士,Python、Git、Linux、分布式、高并发、PyTorch,互联网,200-1000人,2026-06-02
+深度学习工程师,字节智能,深圳,53-84K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、LangChain、NLP、Flask,互联网,200-1000人,2026-07-04
+数据分析师,百度,深圳,44-56K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、计算机视觉、FastAPI、深度学习,互联网,50-200人,2026-05-07
+全栈工程师,美团数据,北京,12-19K,1-3年,博士,Python、Git、Linux、AWS、MongoDB、Redis,广告营销,5000人以上,2026-07-22
+深度学习工程师,B站数据,北京,49-81K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、Pandas、Spark、Docker,广告营销,1000-5000人,2026-07-27
+AI算法工程师,字节科技,上海,28-41K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、NLP、Pandas、MongoDB,医疗健康,1000-5000人,2026-06-25
+NLP工程师,小米网络,南京,5-7K,应届生,大专,Python、Git、Linux、Pandas、NLP、数据分析,金融科技,200-1000人,2026-06-03
+机器学习工程师,京东数据,成都,17-31K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、Redis、Spark、Docker,智能制造,50-200人,2026-05-31
+NLP工程师,美团网络,北京,31-48K,10年以上,硕士,Python、Git、Linux、数据分析、TensorFlow、机器学习,医疗健康,200-1000人,2026-06-15
+AI算法工程师,知乎科技,西安,12-18K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、Docker、机器学习、LangChain,游戏,5000人以上,2026-07-17
+计算机视觉工程师,阿里科技,西安,5-6K,应届生,硕士,Python、Git、Linux、深度学习、计算机视觉、PyTorch,电商零售,50-200人,2026-06-26
+计算机视觉工程师,阿里,南京,4-7K,应届生,本科,Python、Git、Linux、深度学习、Flask、计算机视觉,医疗健康,200-1000人,2026-05-24
+计算机视觉工程师,百度智能,上海,7-9K,应届生,本科,Python、Git、Linux、数据分析、Spark、Pandas,游戏,200-1000人,2026-07-24
+深度学习工程师,贝壳,西安,9-13K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、MongoDB、计算机视觉、MySQL,教育,1000-5000人,2026-06-24
+计算机视觉工程师,滴滴科技,北京,7-10K,应届生,本科,Python、Git、Linux、Redis、PyTorch、Spark,游戏,50-200人,2026-07-13
+数据分析师,拼多多,南京,33-40K,10年以上,本科,Python、Git、Linux、Pandas、数据分析、PyTorch、AWS、MySQL,智能制造,5000人以上,2026-06-10
+机器学习工程师,美团网络,南京,31-38K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、AWS、数据分析、Redis,游戏,<50人,2026-07-28
+深度学习工程师,字节网络,南京,40-53K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Django、Redis、MongoDB,金融科技,5000人以上,2026-06-21
+NLP工程师,京东科技,杭州,12-18K,3-5年,硕士,Python、Git、Linux、高并发、Docker、MySQL,电商零售,1000-5000人,2026-07-17
+Python数据工程师,快手科技,武汉,26-43K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、机器学习、LangChain、TensorFlow,智能制造,5000人以上,2026-06-04
+AI算法工程师,腾讯,广州,35-44K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、Redis、MongoDB、Pandas,广告营销,5000人以上,2026-06-13
+NLP工程师,快手智能,北京,21-36K,5-10年,本科,Python、Git、Linux、Pandas、Redis、深度学习,金融科技,5000人以上,2026-05-31
+数据分析师,B站智能,北京,15-21K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、机器学习、NLP、Spark,智能制造,5000人以上,2026-05-25
+Python后端工程师,美团智能,成都,5-7K,应届生,硕士,Python、Git、Linux、MySQL、REST API、Flask、计算机视觉、Redis,电商零售,200-1000人,2026-05-05
+全栈工程师,滴滴智能,南京,9-12K,1-3年,大专,Python、Git、Linux、Docker、AWS、MySQL,游戏,5000人以上,2026-06-12
+测试开发工程师,百度科技,北京,18-24K,3-5年,硕士,Python、Git、Linux、FastAPI、Docker、高并发,金融科技,200-1000人,2026-06-17
+AI算法工程师,快手智能,西安,37-49K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、Django、分布式、AWS,互联网,1000-5000人,2026-07-14
+测试开发工程师,B站科技,杭州,21-37K,5-10年,硕士,Python、Git、Linux、Spark、Django、计算机视觉,广告营销,1000-5000人,2026-05-23
+全栈工程师,百度科技,南京,24-36K,10年以上,博士,Python、Git、Linux、分布式、Spark、计算机视觉,金融科技,5000人以上,2026-05-14
+AI算法工程师,网易网络,广州,10-15K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、LangChain、AWS、数据分析,互联网,1000-5000人,2026-05-26
+Python后端工程师,华为网络,南京,20-27K,10年以上,硕士,Python、Git、Linux、MySQL、REST API、Docker、计算机视觉、Flask,电商零售,<50人,2026-07-20
+全栈工程师,B站智能,武汉,9-10K,1-3年,博士,Python、Git、Linux、Django、Docker、REST API,游戏,<50人,2026-07-30
+全栈工程师,腾讯科技,杭州,17-26K,3-5年,大专,Python、Git、Linux、MySQL、Redis、Spark,互联网,5000人以上,2026-06-07
+计算机视觉工程师,贝壳,杭州,9-13K,1-3年,硕士,Python、Git、Linux、Flask、MySQL、AWS,智能制造,<50人,2026-05-13
+NLP工程师,携程网络,西安,20-32K,10年以上,大专,Python、Git、Linux、LangChain、PyTorch、计算机视觉,金融科技,200-1000人,2026-07-25
+深度学习工程师,京东,上海,54-88K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、Django、AWS、REST API,电商零售,50-200人,2026-06-15
+AI算法工程师,小米,武汉,9-12K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、计算机视觉、MongoDB、Pandas,广告营销,200-1000人,2026-07-05
+Python后端工程师,腾讯数据,杭州,13-21K,3-5年,硕士,Python、Git、Linux、MySQL、REST API、Pandas、数据分析、Spark,游戏,200-1000人,2026-06-18
+数据分析师,网易,武汉,19-33K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、Flask、高并发、机器学习,智能制造,<50人,2026-06-06
+AI算法工程师,B站智能,成都,18-28K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、AWS、MySQL、数据分析,游戏,200-1000人,2026-06-06
+Python后端工程师,百度,上海,23-33K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、Spark、TensorFlow、Flask,金融科技,50-200人,2026-07-12
+测试开发工程师,京东数据,成都,18-24K,5-10年,大专,Python、Git、Linux、MySQL、MongoDB、Docker,智能制造,1000-5000人,2026-06-03
+测试开发工程师,阿里数据,广州,9-13K,1-3年,大专,Python、Git、Linux、REST API、Redis、LangChain,医疗健康,1000-5000人,2026-07-07
+深度学习工程师,美团科技,广州,33-55K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、AWS、Redis、NLP,智能制造,<50人,2026-07-21
+NLP工程师,百度数据,西安,10-15K,3-5年,硕士,Python、Git、Linux、计算机视觉、AWS、FastAPI,金融科技,50-200人,2026-05-01
+数据分析师,拼多多智能,杭州,28-47K,5-10年,大专,Python、Git、Linux、Pandas、数据分析、高并发、Docker、MySQL,金融科技,200-1000人,2026-05-18
+机器学习工程师,贝壳智能,武汉,33-51K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Redis、AWS、高并发,智能制造,50-200人,2026-07-21
+NLP工程师,腾讯,深圳,9-13K,1-3年,博士,Python、Git、Linux、深度学习、FastAPI、计算机视觉,医疗健康,<50人,2026-05-25
+全栈工程师,京东数据,杭州,34-44K,10年以上,硕士,Python、Git、Linux、分布式、Flask、MongoDB,电商零售,50-200人,2026-06-22
+计算机视觉工程师,阿里,成都,22-33K,10年以上,大专,Python、Git、Linux、LangChain、Django、MongoDB,游戏,5000人以上,2026-07-25
+Python后端工程师,滴滴网络,武汉,20-30K,10年以上,硕士,Python、Git、Linux、MySQL、REST API、深度学习、Spark、Redis,互联网,50-200人,2026-06-29
+Python数据工程师,小米信息,南京,21-37K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、深度学习、计算机视觉、NLP,电商零售,200-1000人,2026-05-14
+NLP工程师,华为网络,西安,4-6K,应届生,硕士,Python、Git、Linux、Redis、TensorFlow、机器学习,游戏,5000人以上,2026-07-15
+机器学习工程师,快手科技,杭州,16-25K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、计算机视觉、分布式,互联网,<50人,2026-07-10
+机器学习工程师,小米智能,西安,24-37K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、REST API、计算机视觉、TensorFlow,金融科技,1000-5000人,2026-06-15
+数据分析师,拼多多,广州,16-27K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、计算机视觉、高并发、机器学习,金融科技,1000-5000人,2026-06-09
+NLP工程师,美团科技,武汉,19-31K,10年以上,硕士,Python、Git、Linux、深度学习、REST API、计算机视觉,电商零售,50-200人,2026-07-18
+计算机视觉工程师,腾讯,西安,15-23K,5-10年,大专,Python、Git、Linux、AWS、Pandas、Docker,电商零售,200-1000人,2026-07-13
+计算机视觉工程师,滴滴智能,成都,7-10K,1-3年,博士,Python、Git、Linux、Spark、MongoDB、机器学习,广告营销,<50人,2026-06-17
+测试开发工程师,滴滴数据,成都,5-8K,应届生,博士,Python、Git、Linux、LangChain、MongoDB、高并发,教育,<50人,2026-05-03
+计算机视觉工程师,京东数据,武汉,6-11K,1-3年,博士,Python、Git、Linux、Redis、Django、PyTorch,广告营销,200-1000人,2026-06-29
+机器学习工程师,贝壳智能,深圳,41-63K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、MySQL、Flask、MongoDB,教育,5000人以上,2026-05-13
+测试开发工程师,快手科技,武汉,23-31K,10年以上,博士,Python、Git、Linux、计算机视觉、LangChain、Spark,教育,50-200人,2026-06-02
+全栈工程师,滴滴信息,西安,11-19K,3-5年,本科,Python、Git、Linux、深度学习、Spark、计算机视觉,医疗健康,200-1000人,2026-05-01
+AI算法工程师,拼多多科技,西安,24-44K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、Redis、数据分析、AWS,医疗健康,1000-5000人,2026-06-23
+深度学习工程师,网易科技,杭州,51-76K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、LangChain、MySQL、MongoDB,教育,50-200人,2026-07-17
+Python后端工程师,知乎,上海,22-27K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、高并发、Django、Pandas,广告营销,1000-5000人,2026-05-04
+深度学习工程师,腾讯,广州,23-34K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、MySQL、Django、Spark,电商零售,<50人,2026-05-08
+机器学习工程师,腾讯,武汉,12-16K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、NLP、计算机视觉、AWS,广告营销,50-200人,2026-06-22
+NLP工程师,美团信息,武汉,10-15K,3-5年,本科,Python、Git、Linux、Flask、PyTorch、深度学习,医疗健康,5000人以上,2026-07-10
+深度学习工程师,贝壳智能,深圳,47-81K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Django、Flask、REST API,智能制造,50-200人,2026-06-19
+Python后端工程师,B站信息,广州,17-28K,5-10年,本科,Python、Git、Linux、MySQL、REST API、PyTorch、机器学习、NLP,教育,<50人,2026-06-18
+AI算法工程师,携程数据,武汉,20-30K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、计算机视觉、Docker、分布式,智能制造,5000人以上,2026-05-27
+深度学习工程师,京东网络,杭州,16-26K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、REST API、高并发、FastAPI,教育,5000人以上,2026-05-14
+AI算法工程师,字节智能,西安,24-40K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、MongoDB、FastAPI、Flask,电商零售,200-1000人,2026-07-16
+NLP工程师,知乎,武汉,4-6K,应届生,本科,Python、Git、Linux、Docker、AWS、数据分析,广告营销,5000人以上,2026-05-26
+Python后端工程师,阿里网络,西安,15-23K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、分布式、Redis、TensorFlow,游戏,200-1000人,2026-06-28
+AI算法工程师,知乎,西安,8-14K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、Spark、数据分析、Pandas,广告营销,1000-5000人,2026-06-24
+机器学习工程师,拼多多,上海,59-79K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、Flask、LangChain、TensorFlow,互联网,200-1000人,2026-07-08
+Python数据工程师,华为科技,西安,20-30K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、Redis、TensorFlow、Spark,互联网,50-200人,2026-06-02
+深度学习工程师,B站智能,上海,13-17K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、MySQL、Pandas、AWS,教育,5000人以上,2026-05-05
+深度学习工程师,华为数据,北京,17-28K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、NLP、LangChain、计算机视觉,电商零售,5000人以上,2026-05-18
+深度学习工程师,腾讯智能,南京,21-32K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、Spark、高并发、REST API,互联网,200-1000人,2026-05-16
+机器学习工程师,贝壳科技,西安,18-29K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、REST API、LangChain、高并发,医疗健康,50-200人,2026-06-22
+Python数据工程师,贝壳智能,北京,40-60K,10年以上,博士,Python、Git、Linux、Pandas、数据分析、Django、深度学习、MySQL,广告营销,200-1000人,2026-05-24
+AI算法工程师,网易网络,西安,12-16K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、Redis、FastAPI、高并发,广告营销,50-200人,2026-05-05
+测试开发工程师,小米数据,广州,7-10K,应届生,本科,Python、Git、Linux、FastAPI、高并发、Django,游戏,50-200人,2026-07-15
+NLP工程师,B站智能,成都,10-14K,3-5年,博士,Python、Git、Linux、AWS、Spark、Pandas,金融科技,1000-5000人,2026-05-08
+测试开发工程师,贝壳,杭州,16-24K,3-5年,硕士,Python、Git、Linux、PyTorch、LangChain、REST API,游戏,200-1000人,2026-05-19
+数据分析师,携程智能,杭州,20-31K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、深度学习、LangChain、REST API,广告营销,1000-5000人,2026-06-29
+数据分析师,知乎科技,成都,11-17K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、MongoDB、TensorFlow、MySQL,互联网,<50人,2026-05-22
+机器学习工程师,京东,深圳,17-25K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、REST API、分布式、TensorFlow,互联网,5000人以上,2026-07-03
+NLP工程师,网易智能,南京,4-8K,应届生,大专,Python、Git、Linux、数据分析、Flask、Redis,金融科技,5000人以上,2026-06-24
+数据分析师,拼多多信息,杭州,12-22K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、AWS、FastAPI、高并发,医疗健康,<50人,2026-06-10
+Python后端工程师,携程智能,上海,19-28K,5-10年,博士,Python、Git、Linux、MySQL、REST API、Django、Redis、AWS,游戏,200-1000人,2026-05-31
+计算机视觉工程师,华为科技,上海,31-43K,10年以上,大专,Python、Git、Linux、TensorFlow、MySQL、LangChain,互联网,50-200人,2026-05-03
+测试开发工程师,携程,北京,10-15K,1-3年,本科,Python、Git、Linux、NLP、REST API、深度学习,游戏,50-200人,2026-06-22
+AI算法工程师,美团网络,西安,19-26K,3-5年,大专,Python、Git、Linux、PyTorch、深度学习、Pandas、NLP、TensorFlow,医疗健康,1000-5000人,2026-07-01
+Python数据工程师,贝壳科技,杭州,20-29K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、机器学习、FastAPI、MySQL,金融科技,200-1000人,2026-05-04
+数据分析师,快手信息,南京,9-17K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、AWS、计算机视觉、LangChain,金融科技,50-200人,2026-07-17
+AI算法工程师,贝壳,深圳,35-58K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、NLP、Pandas、TensorFlow,医疗健康,1000-5000人,2026-07-27
+机器学习工程师,百度数据,上海,50-76K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、机器学习、REST API、Flask,金融科技,50-200人,2026-06-12
+机器学习工程师,知乎,广州,31-46K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、FastAPI、AWS,金融科技,50-200人,2026-06-14
+全栈工程师,携程信息,北京,26-43K,5-10年,硕士,Python、Git、Linux、分布式、高并发、Docker,医疗健康,200-1000人,2026-06-04
+计算机视觉工程师,百度网络,杭州,19-31K,5-10年,硕士,Python、Git、Linux、Spark、MongoDB、FastAPI,智能制造,1000-5000人,2026-06-20
+全栈工程师,小米智能,南京,12-20K,3-5年,大专,Python、Git、Linux、PyTorch、Pandas、Django,广告营销,200-1000人,2026-05-22
+AI算法工程师,滴滴科技,南京,29-44K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、Pandas、Redis、AWS,广告营销,5000人以上,2026-06-28
+机器学习工程师,腾讯信息,西安,39-55K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Redis、Docker、LangChain,智能制造,50-200人,2026-05-02
+计算机视觉工程师,快手网络,北京,26-40K,10年以上,博士,Python、Git、Linux、AWS、分布式、REST API,教育,1000-5000人,2026-07-17
+测试开发工程师,拼多多,南京,15-25K,5-10年,本科,Python、Git、Linux、MySQL、Redis、Docker,智能制造,200-1000人,2026-05-30
+测试开发工程师,拼多多网络,武汉,7-11K,1-3年,博士,Python、Git、Linux、深度学习、MySQL、机器学习,互联网,<50人,2026-07-18
+Python后端工程师,华为智能,成都,5-7K,应届生,本科,Python、Git、Linux、MySQL、REST API、Pandas、Spark、LangChain,游戏,50-200人,2026-07-08
+数据分析师,小米网络,南京,22-29K,5-10年,大专,Python、Git、Linux、Pandas、数据分析、Django、分布式、LangChain,金融科技,5000人以上,2026-05-16
+AI算法工程师,快手科技,西安,11-19K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、MongoDB、NLP,游戏,5000人以上,2026-06-02
+机器学习工程师,B站智能,上海,29-43K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、计算机视觉、Redis、Flask,智能制造,<50人,2026-07-08
+深度学习工程师,拼多多数据,广州,11-15K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、Flask、Pandas、Spark,电商零售,1000-5000人,2026-07-12
+NLP工程师,知乎信息,深圳,26-45K,10年以上,本科,Python、Git、Linux、高并发、TensorFlow、计算机视觉,互联网,1000-5000人,2026-07-13
+数据分析师,贝壳数据,杭州,29-48K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、REST API、Flask、MySQL,互联网,50-200人,2026-05-29
+全栈工程师,滴滴科技,北京,18-29K,3-5年,本科,Python、Git、Linux、Spark、REST API、AWS,金融科技,5000人以上,2026-06-02
+AI算法工程师,腾讯数据,广州,45-76K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、Docker、LangChain、计算机视觉,互联网,1000-5000人,2026-06-04
+全栈工程师,美团科技,成都,6-9K,应届生,博士,Python、Git、Linux、计算机视觉、高并发、数据分析,电商零售,5000人以上,2026-07-04
+数据分析师,拼多多智能,杭州,13-18K,1-3年,大专,Python、Git、Linux、Pandas、数据分析、机器学习、分布式、LangChain,金融科技,50-200人,2026-06-25
+机器学习工程师,京东科技,北京,28-44K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、Pandas、REST API、Flask,医疗健康,1000-5000人,2026-07-12
+机器学习工程师,携程智能,武汉,9-14K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、AWS、REST API、NLP,互联网,<50人,2026-06-25
+Python数据工程师,小米网络,成都,7-10K,应届生,博士,Python、Git、Linux、Pandas、数据分析、机器学习、深度学习、Docker,广告营销,200-1000人,2026-07-03
+Python后端工程师,阿里,北京,7-9K,应届生,博士,Python、Git、Linux、MySQL、REST API、Pandas、FastAPI、Flask,医疗健康,50-200人,2026-07-10
+全栈工程师,字节信息,上海,19-25K,3-5年,硕士,Python、Git、Linux、NLP、机器学习、FastAPI,游戏,<50人,2026-05-06
+AI算法工程师,字节科技,北京,17-28K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、TensorFlow、分布式、NLP,金融科技,1000-5000人,2026-05-16
+数据分析师,携程,武汉,6-10K,应届生,本科,Python、Git、Linux、Pandas、数据分析、机器学习、Docker、NLP,电商零售,50-200人,2026-07-17
+AI算法工程师,百度网络,西安,38-56K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、Flask、Spark、AWS,教育,<50人,2026-06-16
+AI算法工程师,拼多多网络,深圳,13-17K,应届生,博士,Python、Git、Linux、PyTorch、深度学习、Redis、LangChain、计算机视觉,互联网,200-1000人,2026-06-20
+深度学习工程师,携程信息,西安,33-60K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、LangChain、REST API、Pandas,金融科技,50-200人,2026-05-09
+Python数据工程师,拼多多信息,上海,42-71K,10年以上,大专,Python、Git、Linux、Pandas、数据分析、Spark、计算机视觉、Flask,广告营销,<50人,2026-07-14
+Python后端工程师,小米,上海,7-10K,应届生,硕士,Python、Git、Linux、MySQL、REST API、深度学习、MongoDB、Pandas,游戏,1000-5000人,2026-07-23
+AI算法工程师,网易,西安,33-60K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、Flask、高并发、NLP,游戏,5000人以上,2026-06-21
+AI算法工程师,腾讯科技,广州,36-44K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、MySQL、计算机视觉、Django,金融科技,<50人,2026-07-19
+数据分析师,拼多多智能,北京,15-23K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、Flask、计算机视觉、Docker,医疗健康,<50人,2026-05-25
+Python后端工程师,字节信息,成都,15-22K,5-10年,硕士,Python、Git、Linux、MySQL、REST API、MongoDB、NLP、TensorFlow,广告营销,5000人以上,2026-05-18
+数据分析师,美团智能,成都,11-14K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、MongoDB、PyTorch、TensorFlow,互联网,50-200人,2026-05-05
+Python后端工程师,京东科技,武汉,10-16K,3-5年,博士,Python、Git、Linux、MySQL、REST API、Pandas、LangChain、计算机视觉,教育,1000-5000人,2026-07-26
+测试开发工程师,美团智能,广州,7-9K,应届生,硕士,Python、Git、Linux、AWS、TensorFlow、NLP,金融科技,1000-5000人,2026-05-05
+全栈工程师,B站,广州,14-23K,3-5年,大专,Python、Git、Linux、机器学习、高并发、FastAPI,广告营销,200-1000人,2026-06-13
+计算机视觉工程师,京东,武汉,6-10K,1-3年,本科,Python、Git、Linux、分布式、PyTorch、深度学习,互联网,1000-5000人,2026-06-08
+全栈工程师,贝壳网络,上海,13-16K,1-3年,本科,Python、Git、Linux、LangChain、MySQL、TensorFlow,教育,5000人以上,2026-07-23
+机器学习工程师,美团智能,成都,29-41K,5-10年,大专,Python、Git、Linux、PyTorch、深度学习、分布式、MySQL、Spark,电商零售,50-200人,2026-07-13
+全栈工程师,快手信息,广州,14-20K,3-5年,博士,Python、Git、Linux、Django、Docker、MongoDB,金融科技,50-200人,2026-06-03
+AI算法工程师,快手网络,深圳,38-64K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、FastAPI、AWS、计算机视觉,广告营销,200-1000人,2026-07-15
+AI算法工程师,腾讯科技,上海,17-29K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、数据分析、Pandas、MongoDB,互联网,200-1000人,2026-06-19
+全栈工程师,B站智能,深圳,8-12K,应届生,博士,Python、Git、Linux、Docker、Redis、PyTorch,互联网,50-200人,2026-05-21
+数据分析师,字节智能,杭州,28-47K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、PyTorch、MySQL、Django,广告营销,50-200人,2026-05-16
+AI算法工程师,B站,成都,10-13K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、Pandas、REST API、TensorFlow,游戏,1000-5000人,2026-07-09
+数据分析师,网易信息,成都,11-13K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、FastAPI、机器学习、REST API,游戏,5000人以上,2026-06-03
+Python数据工程师,携程科技,北京,9-17K,应届生,硕士,Python、Git、Linux、Pandas、数据分析、MongoDB、FastAPI、PyTorch,游戏,200-1000人,2026-06-07
+Python数据工程师,快手网络,西安,20-30K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、FastAPI、PyTorch、LangChain,互联网,1000-5000人,2026-06-26
+NLP工程师,百度,成都,21-29K,10年以上,本科,Python、Git、Linux、TensorFlow、FastAPI、MongoDB,游戏,200-1000人,2026-06-29
+数据分析师,拼多多智能,深圳,14-20K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、分布式、Docker、Django,广告营销,5000人以上,2026-07-27
+全栈工程师,字节,深圳,26-33K,5-10年,大专,Python、Git、Linux、Spark、PyTorch、深度学习,教育,50-200人,2026-07-01
+测试开发工程师,阿里科技,深圳,16-21K,3-5年,大专,Python、Git、Linux、Redis、AWS、计算机视觉,金融科技,200-1000人,2026-05-16
+机器学习工程师,快手科技,上海,28-40K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、NLP、Django,智能制造,50-200人,2026-07-10
+计算机视觉工程师,滴滴科技,深圳,21-34K,5-10年,硕士,Python、Git、Linux、MongoDB、NLP、分布式,互联网,50-200人,2026-07-08
+计算机视觉工程师,美团网络,成都,20-27K,10年以上,本科,Python、Git、Linux、计算机视觉、深度学习、Flask,金融科技,200-1000人,2026-07-12
+Python数据工程师,华为数据,北京,21-35K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、PyTorch、TensorFlow、NLP,广告营销,1000-5000人,2026-07-22
+数据分析师,拼多多智能,南京,21-33K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、分布式、FastAPI、Flask,广告营销,<50人,2026-06-12
+Python后端工程师,网易,广州,5-9K,应届生,硕士,Python、Git、Linux、MySQL、REST API、Django、Redis、高并发,智能制造,5000人以上,2026-07-21
+计算机视觉工程师,百度智能,武汉,4-6K,应届生,博士,Python、Git、Linux、Django、分布式、数据分析,医疗健康,200-1000人,2026-06-05
+全栈工程师,携程智能,杭州,8-10K,应届生,大专,Python、Git、Linux、计算机视觉、PyTorch、数据分析,金融科技,200-1000人,2026-05-21
+计算机视觉工程师,阿里科技,武汉,7-11K,1-3年,大专,Python、Git、Linux、Spark、Redis、机器学习,游戏,1000-5000人,2026-07-09
+Python数据工程师,百度信息,广州,8-12K,应届生,博士,Python、Git、Linux、Pandas、数据分析、LangChain、AWS、高并发,医疗健康,50-200人,2026-06-12
+全栈工程师,字节数据,北京,13-18K,1-3年,大专,Python、Git、Linux、MongoDB、FastAPI、REST API,互联网,1000-5000人,2026-06-16
+NLP工程师,华为网络,南京,19-34K,10年以上,博士,Python、Git、Linux、TensorFlow、AWS、MongoDB,电商零售,<50人,2026-06-22
+Python数据工程师,小米科技,深圳,14-23K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、Spark、Django、Docker,医疗健康,200-1000人,2026-07-25
+AI算法工程师,快手信息,上海,39-65K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、分布式、MongoDB、Spark,金融科技,1000-5000人,2026-05-25
+数据分析师,美团智能,深圳,44-68K,10年以上,大专,Python、Git、Linux、Pandas、数据分析、计算机视觉、Spark、LangChain,游戏,1000-5000人,2026-07-18
+计算机视觉工程师,网易网络,武汉,5-7K,应届生,本科,Python、Git、Linux、NLP、TensorFlow、分布式,智能制造,50-200人,2026-07-12
+Python后端工程师,阿里信息,武汉,9-16K,3-5年,硕士,Python、Git、Linux、MySQL、REST API、Docker、LangChain、Flask,医疗健康,1000-5000人,2026-06-22
+测试开发工程师,小米网络,广州,21-29K,5-10年,大专,Python、Git、Linux、Spark、AWS、计算机视觉,互联网,5000人以上,2026-07-03
+数据分析师,京东智能,上海,20-30K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、Django、TensorFlow、FastAPI,互联网,1000-5000人,2026-05-19
+Python后端工程师,拼多多网络,成都,7-11K,1-3年,硕士,Python、Git、Linux、MySQL、REST API、PyTorch、LangChain、NLP,广告营销,5000人以上,2026-05-27
+Python数据工程师,拼多多科技,深圳,32-48K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、机器学习、PyTorch、NLP,互联网,50-200人,2026-06-27
+计算机视觉工程师,小米信息,杭州,9-12K,1-3年,本科,Python、Git、Linux、PyTorch、Spark、Docker,电商零售,5000人以上,2026-05-08
+Python后端工程师,网易网络,杭州,14-20K,3-5年,硕士,Python、Git、Linux、MySQL、REST API、FastAPI、Spark、深度学习,游戏,5000人以上,2026-06-12
+AI算法工程师,滴滴信息,北京,50-72K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、机器学习、NLP、分布式,医疗健康,200-1000人,2026-05-04
+深度学习工程师,腾讯智能,深圳,53-81K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、TensorFlow、REST API、计算机视觉,医疗健康,1000-5000人,2026-06-09
+机器学习工程师,快手数据,南京,9-14K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、REST API、数据分析、MongoDB,医疗健康,50-200人,2026-07-02
+NLP工程师,知乎科技,深圳,14-21K,3-5年,大专,Python、Git、Linux、Flask、深度学习、MySQL,教育,200-1000人,2026-06-27
+深度学习工程师,拼多多信息,广州,32-54K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、MySQL、Redis,广告营销,50-200人,2026-05-17
+NLP工程师,贝壳,上海,20-29K,5-10年,硕士,Python、Git、Linux、数据分析、MongoDB、Pandas,电商零售,200-1000人,2026-07-11
+数据分析师,百度信息,上海,29-47K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、Django、Flask、高并发,广告营销,<50人,2026-05-10
+数据分析师,贝壳网络,南京,20-34K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、计算机视觉、PyTorch、深度学习,教育,<50人,2026-06-11
+Python后端工程师,滴滴科技,杭州,9-14K,1-3年,硕士,Python、Git、Linux、MySQL、REST API、Django、Redis、TensorFlow,医疗健康,200-1000人,2026-07-17
+Python数据工程师,贝壳数据,西安,28-48K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、计算机视觉、Django、Flask,游戏,<50人,2026-07-13
+深度学习工程师,阿里智能,杭州,15-24K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、MySQL、Pandas、机器学习,互联网,5000人以上,2026-05-27
+Python后端工程师,美团网络,上海,7-10K,应届生,大专,Python、Git、Linux、MySQL、REST API、AWS、Flask、FastAPI,互联网,200-1000人,2026-06-04
+机器学习工程师,京东网络,上海,54-84K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、计算机视觉、Docker、高并发,广告营销,50-200人,2026-07-17
+计算机视觉工程师,拼多多数据,杭州,13-17K,3-5年,本科,Python、Git、Linux、Spark、Django、分布式,智能制造,50-200人,2026-06-08
+Python后端工程师,知乎科技,北京,7-9K,应届生,大专,Python、Git、Linux、MySQL、REST API、Docker、机器学习、LangChain,广告营销,200-1000人,2026-07-19
+全栈工程师,百度,武汉,5-9K,应届生,大专,Python、Git、Linux、数据分析、Redis、高并发,互联网,<50人,2026-06-23
+数据分析师,B站智能,深圳,22-28K,3-5年,硕士,Python、Git、Linux、Pandas、数据分析、深度学习、Flask、Redis,游戏,1000-5000人,2026-06-26
+Python数据工程师,贝壳数据,广州,24-42K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、TensorFlow、Flask、Redis,游戏,5000人以上,2026-07-09
+Python数据工程师,拼多多智能,武汉,10-16K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、Docker、REST API、高并发,金融科技,1000-5000人,2026-07-27
+Python数据工程师,快手,北京,11-15K,应届生,硕士,Python、Git、Linux、Pandas、数据分析、分布式、FastAPI、深度学习,金融科技,1000-5000人,2026-05-01
+深度学习工程师,京东智能,武汉,16-28K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、Django、MongoDB、REST API,广告营销,50-200人,2026-05-13
+AI算法工程师,快手信息,武汉,18-27K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、Pandas、分布式、LangChain,金融科技,1000-5000人,2026-07-24
+Python数据工程师,B站信息,武汉,7-11K,应届生,博士,Python、Git、Linux、Pandas、数据分析、PyTorch、Redis、NLP,游戏,<50人,2026-07-15
+NLP工程师,滴滴智能,西安,4-7K,应届生,大专,Python、Git、Linux、深度学习、计算机视觉、TensorFlow,教育,1000-5000人,2026-05-20
+测试开发工程师,拼多多数据,西安,20-35K,10年以上,博士,Python、Git、Linux、FastAPI、PyTorch、深度学习,智能制造,200-1000人,2026-06-03
+NLP工程师,腾讯科技,西安,9-15K,3-5年,大专,Python、Git、Linux、数据分析、Redis、LangChain,教育,50-200人,2026-05-28
+AI算法工程师,小米数据,南京,12-19K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、分布式、Docker、AWS,广告营销,5000人以上,2026-06-17
+NLP工程师,腾讯智能,深圳,22-30K,5-10年,大专,Python、Git、Linux、AWS、Flask、MongoDB,电商零售,50-200人,2026-06-05
+AI算法工程师,携程网络,南京,41-61K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、机器学习、Pandas、NLP,医疗健康,1000-5000人,2026-05-14
+数据分析师,快手数据,深圳,31-42K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、机器学习、计算机视觉、Docker,电商零售,5000人以上,2026-05-21
+NLP工程师,知乎智能,成都,5-8K,应届生,硕士,Python、Git、Linux、REST API、机器学习、数据分析,互联网,5000人以上,2026-05-18
+AI算法工程师,腾讯数据,北京,37-63K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、Django、计算机视觉、机器学习,电商零售,<50人,2026-07-23
+全栈工程师,拼多多网络,杭州,34-52K,10年以上,大专,Python、Git、Linux、REST API、FastAPI、分布式,游戏,50-200人,2026-07-17
+NLP工程师,携程网络,广州,5-9K,应届生,博士,Python、Git、Linux、PyTorch、LangChain、Django,广告营销,50-200人,2026-05-04
+测试开发工程师,小米信息,西安,20-34K,10年以上,本科,Python、Git、Linux、Flask、分布式、AWS,金融科技,1000-5000人,2026-06-03
+Python后端工程师,京东科技,南京,11-13K,3-5年,硕士,Python、Git、Linux、MySQL、REST API、Spark、Flask、TensorFlow,电商零售,200-1000人,2026-05-17
+计算机视觉工程师,知乎智能,北京,28-46K,10年以上,硕士,Python、Git、Linux、深度学习、AWS、FastAPI,电商零售,5000人以上,2026-05-21
+AI算法工程师,携程,西安,11-17K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、NLP、分布式、数据分析,医疗健康,50-200人,2026-06-16
+计算机视觉工程师,美团数据,西安,14-23K,5-10年,大专,Python、Git、Linux、高并发、分布式、FastAPI,互联网,200-1000人,2026-06-16
+机器学习工程师,滴滴,上海,42-57K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、MongoDB、AWS、REST API,互联网,200-1000人,2026-05-25
+深度学习工程师,美团科技,成都,39-59K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、FastAPI、分布式、Spark,金融科技,50-200人,2026-05-23
+NLP工程师,阿里网络,南京,4-6K,应届生,本科,Python、Git、Linux、Flask、LangChain、REST API,金融科技,5000人以上,2026-06-18
+深度学习工程师,B站数据,广州,33-43K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、Docker、高并发、TensorFlow,金融科技,5000人以上,2026-06-09
+Python后端工程师,滴滴数据,上海,15-20K,3-5年,大专,Python、Git、Linux、MySQL、REST API、Spark、数据分析、高并发,互联网,1000-5000人,2026-06-22
+数据分析师,携程智能,西安,10-13K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、计算机视觉、PyTorch、Docker,金融科技,<50人,2026-06-23
+Python后端工程师,滴滴科技,南京,19-34K,10年以上,大专,Python、Git、Linux、MySQL、REST API、MongoDB、Flask、Django,电商零售,50-200人,2026-06-16
+计算机视觉工程师,百度数据,广州,9-13K,1-3年,大专,Python、Git、Linux、REST API、Pandas、分布式,金融科技,200-1000人,2026-05-19
+AI算法工程师,知乎信息,广州,10-16K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、Docker、计算机视觉、Redis,教育,200-1000人,2026-06-15
+Python数据工程师,京东智能,武汉,14-21K,3-5年,硕士,Python、Git、Linux、Pandas、数据分析、Spark、Flask、PyTorch,智能制造,50-200人,2026-05-19
+深度学习工程师,京东数据,南京,21-28K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、数据分析、计算机视觉、REST API,金融科技,50-200人,2026-06-18
+计算机视觉工程师,小米信息,上海,13-19K,3-5年,本科,Python、Git、Linux、PyTorch、AWS、分布式,游戏,5000人以上,2026-05-11
+深度学习工程师,知乎数据,北京,53-75K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、分布式、计算机视觉、Flask,广告营销,5000人以上,2026-07-11
+NLP工程师,阿里数据,上海,23-34K,5-10年,硕士,Python、Git、Linux、高并发、Flask、AWS,电商零售,1000-5000人,2026-06-30
+数据分析师,知乎信息,深圳,39-62K,10年以上,本科,Python、Git、Linux、Pandas、数据分析、MySQL、LangChain、计算机视觉,教育,<50人,2026-07-25
+深度学习工程师,知乎网络,西安,16-28K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、Docker、MongoDB、机器学习,医疗健康,5000人以上,2026-07-25
+NLP工程师,拼多多智能,深圳,22-27K,5-10年,博士,Python、Git、Linux、LangChain、NLP、FastAPI,游戏,200-1000人,2026-05-08
+测试开发工程师,京东网络,武汉,15-24K,5-10年,大专,Python、Git、Linux、LangChain、Django、Docker,电商零售,50-200人,2026-07-09
+测试开发工程师,快手数据,上海,11-16K,1-3年,博士,Python、Git、Linux、Django、MongoDB、Flask,游戏,<50人,2026-07-16
+深度学习工程师,京东数据,北京,16-28K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、MySQL、Django、机器学习,电商零售,5000人以上,2026-05-26
+机器学习工程师,小米网络,北京,30-44K,3-5年,大专,Python、Git、Linux、PyTorch、深度学习、Django、LangChain、Spark,电商零售,5000人以上,2026-05-14
+数据分析师,快手网络,西安,15-20K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、NLP、Docker、Redis,互联网,50-200人,2026-05-15
+NLP工程师,美团科技,西安,15-22K,5-10年,本科,Python、Git、Linux、REST API、AWS、Redis,金融科技,1000-5000人,2026-05-31
+数据分析师,贝壳信息,西安,7-10K,应届生,博士,Python、Git、Linux、Pandas、数据分析、REST API、NLP、计算机视觉,金融科技,1000-5000人,2026-07-25
+数据分析师,字节信息,广州,28-39K,5-10年,本科,Python、Git、Linux、Pandas、数据分析、Django、PyTorch、高并发,金融科技,5000人以上,2026-05-15
+Python后端工程师,贝壳信息,南京,6-11K,1-3年,硕士,Python、Git、Linux、MySQL、REST API、机器学习、分布式、Pandas,智能制造,5000人以上,2026-07-17
+全栈工程师,知乎科技,南京,9-13K,1-3年,博士,Python、Git、Linux、机器学习、MongoDB、计算机视觉,游戏,50-200人,2026-06-13
+AI算法工程师,美团科技,杭州,36-52K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、高并发、MySQL、Django,游戏,<50人,2026-05-26
+AI算法工程师,字节,深圳,36-51K,5-10年,博士,Python、Git、Linux、PyTorch、深度学习、MySQL、Pandas、高并发,医疗健康,5000人以上,2026-06-27
+Python后端工程师,阿里科技,深圳,22-31K,5-10年,博士,Python、Git、Linux、MySQL、REST API、FastAPI、TensorFlow、MongoDB,教育,5000人以上,2026-05-07
+数据分析师,阿里科技,北京,24-35K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、计算机视觉、NLP、高并发,教育,5000人以上,2026-07-19
+Python后端工程师,拼多多信息,上海,6-11K,应届生,硕士,Python、Git、Linux、MySQL、REST API、Spark、数据分析、PyTorch,医疗健康,50-200人,2026-06-25
+机器学习工程师,滴滴信息,西安,9-14K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、高并发、机器学习、AWS,游戏,5000人以上,2026-07-16
+Python数据工程师,B站智能,杭州,20-28K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、NLP、FastAPI、高并发,智能制造,1000-5000人,2026-07-27
+测试开发工程师,网易科技,西安,20-34K,10年以上,大专,Python、Git、Linux、深度学习、MySQL、REST API,电商零售,1000-5000人,2026-06-24
+测试开发工程师,百度数据,成都,8-11K,1-3年,硕士,Python、Git、Linux、Django、FastAPI、高并发,医疗健康,50-200人,2026-05-04
+深度学习工程师,京东,杭州,18-26K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、REST API、TensorFlow、MySQL,广告营销,200-1000人,2026-07-15
+计算机视觉工程师,知乎科技,成都,14-21K,5-10年,硕士,Python、Git、Linux、MongoDB、Docker、TensorFlow,游戏,1000-5000人,2026-05-26
+NLP工程师,携程数据,北京,29-39K,10年以上,硕士,Python、Git、Linux、AWS、Pandas、深度学习,互联网,<50人,2026-07-08
+深度学习工程师,快手信息,南京,41-53K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、机器学习、LangChain、分布式,广告营销,5000人以上,2026-05-13
+测试开发工程师,贝壳科技,成都,8-11K,1-3年,博士,Python、Git、Linux、NLP、LangChain、Pandas,电商零售,5000人以上,2026-06-07
+数据分析师,华为智能,杭州,10-13K,应届生,硕士,Python、Git、Linux、Pandas、数据分析、Docker、REST API、PyTorch,电商零售,1000-5000人,2026-06-05
+Python数据工程师,知乎信息,深圳,42-63K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、NLP、Redis、Flask,互联网,50-200人,2026-06-28
+全栈工程师,快手信息,武汉,5-9K,应届生,博士,Python、Git、Linux、LangChain、计算机视觉、PyTorch,游戏,<50人,2026-06-14
+测试开发工程师,滴滴信息,杭州,31-44K,10年以上,本科,Python、Git、Linux、Pandas、MySQL、NLP,医疗健康,1000-5000人,2026-06-19
+数据分析师,携程,深圳,19-29K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、深度学习、机器学习、LangChain,游戏,200-1000人,2026-07-20
+Python数据工程师,贝壳科技,成都,33-41K,10年以上,博士,Python、Git、Linux、Pandas、数据分析、FastAPI、LangChain、MySQL,教育,50-200人,2026-07-07
+机器学习工程师,知乎智能,上海,11-18K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、Redis、Docker、机器学习,电商零售,<50人,2026-07-24
+机器学习工程师,滴滴网络,广州,14-23K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、Django、TensorFlow、MySQL,智能制造,200-1000人,2026-05-11
+Python数据工程师,B站科技,武汉,29-44K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、AWS、Spark、MongoDB,医疗健康,200-1000人,2026-05-02
+Python数据工程师,B站信息,西安,9-13K,1-3年,大专,Python、Git、Linux、Pandas、数据分析、PyTorch、分布式、MongoDB,电商零售,200-1000人,2026-06-14
+全栈工程师,知乎网络,武汉,22-35K,10年以上,大专,Python、Git、Linux、机器学习、高并发、FastAPI,互联网,5000人以上,2026-06-22
+测试开发工程师,携程科技,杭州,23-34K,5-10年,博士,Python、Git、Linux、NLP、FastAPI、LangChain,金融科技,1000-5000人,2026-07-10
+深度学习工程师,滴滴数据,西安,38-53K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、Redis、Django、Flask,医疗健康,<50人,2026-05-23
+Python数据工程师,小米信息,武汉,13-24K,3-5年,博士,Python、Git、Linux、Pandas、数据分析、PyTorch、Flask、Redis,医疗健康,200-1000人,2026-07-28
+数据分析师,字节科技,武汉,7-10K,应届生,本科,Python、Git、Linux、Pandas、数据分析、机器学习、REST API、计算机视觉,广告营销,<50人,2026-07-29
+测试开发工程师,网易网络,上海,11-15K,1-3年,大专,Python、Git、Linux、LangChain、NLP、PyTorch,金融科技,50-200人,2026-07-21
+机器学习工程师,小米网络,武汉,12-20K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、REST API、Pandas、计算机视觉,智能制造,50-200人,2026-07-18
+Python后端工程师,网易网络,西安,18-28K,10年以上,大专,Python、Git、Linux、MySQL、REST API、TensorFlow、FastAPI、Docker,教育,1000-5000人,2026-05-10
+测试开发工程师,美团网络,北京,10-14K,1-3年,硕士,Python、Git、Linux、Spark、高并发、Docker,智能制造,<50人,2026-06-29
+深度学习工程师,快手数据,深圳,35-59K,5-10年,大专,Python、Git、Linux、PyTorch、深度学习、高并发、Docker、Flask,广告营销,50-200人,2026-07-23
+测试开发工程师,小米,西安,11-17K,3-5年,博士,Python、Git、Linux、LangChain、TensorFlow、Spark,广告营销,5000人以上,2026-05-03
+全栈工程师,百度智能,西安,17-26K,5-10年,本科,Python、Git、Linux、高并发、REST API、Flask,金融科技,5000人以上,2026-06-16
+数据分析师,拼多多网络,武汉,15-22K,3-5年,硕士,Python、Git、Linux、Pandas、数据分析、Flask、PyTorch、计算机视觉,教育,200-1000人,2026-07-30
+AI算法工程师,知乎智能,西安,27-38K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、NLP、Docker、高并发,金融科技,<50人,2026-07-11
+数据分析师,美团网络,深圳,9-15K,应届生,本科,Python、Git、Linux、Pandas、数据分析、NLP、REST API、MongoDB,医疗健康,<50人,2026-07-06
+测试开发工程师,阿里科技,杭州,30-49K,10年以上,大专,Python、Git、Linux、MySQL、Pandas、TensorFlow,智能制造,5000人以上,2026-05-08
+机器学习工程师,腾讯数据,成都,10-12K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、FastAPI、MongoDB、Docker,金融科技,50-200人,2026-07-21
+NLP工程师,华为智能,南京,7-10K,1-3年,本科,Python、Git、Linux、REST API、数据分析、Redis,智能制造,1000-5000人,2026-05-11
+机器学习工程师,携程智能,上海,19-27K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、AWS、数据分析、NLP,智能制造,200-1000人,2026-06-17
+机器学习工程师,小米网络,南京,21-27K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、AWS、分布式、Pandas,互联网,<50人,2026-05-21
+全栈工程师,滴滴,北京,39-50K,10年以上,本科,Python、Git、Linux、深度学习、PyTorch、LangChain,电商零售,<50人,2026-06-22
+Python后端工程师,京东信息,武汉,10-13K,3-5年,本科,Python、Git、Linux、MySQL、REST API、机器学习、深度学习、Redis,游戏,5000人以上,2026-06-14
+深度学习工程师,百度网络,上海,28-44K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、Docker、计算机视觉、MySQL,游戏,<50人,2026-05-03
+Python后端工程师,贝壳,成都,11-17K,3-5年,博士,Python、Git、Linux、MySQL、REST API、PyTorch、数据分析、TensorFlow,医疗健康,5000人以上,2026-07-01
+Python后端工程师,快手智能,成都,19-27K,10年以上,本科,Python、Git、Linux、MySQL、REST API、数据分析、Spark、MongoDB,金融科技,50-200人,2026-05-02
+机器学习工程师,京东信息,广州,33-53K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、高并发、Pandas、机器学习,金融科技,1000-5000人,2026-07-20
+NLP工程师,知乎智能,南京,7-11K,1-3年,本科,Python、Git、Linux、Django、REST API、AWS,教育,50-200人,2026-07-05
+AI算法工程师,字节,广州,32-48K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、FastAPI、NLP、数据分析,互联网,200-1000人,2026-05-06
+数据分析师,京东网络,成都,33-43K,10年以上,博士,Python、Git、Linux、Pandas、数据分析、计算机视觉、Docker、MySQL,金融科技,<50人,2026-07-25
+深度学习工程师,快手数据,深圳,25-39K,3-5年,大专,Python、Git、Linux、PyTorch、深度学习、NLP、FastAPI、高并发,教育,5000人以上,2026-07-16
+NLP工程师,京东数据,广州,25-35K,10年以上,博士,Python、Git、Linux、AWS、TensorFlow、LangChain,电商零售,<50人,2026-05-02
+全栈工程师,腾讯网络,杭州,36-44K,10年以上,硕士,Python、Git、Linux、LangChain、计算机视觉、Redis,互联网,200-1000人,2026-05-08
+机器学习工程师,快手网络,杭州,37-50K,5-10年,大专,Python、Git、Linux、PyTorch、深度学习、MongoDB、AWS、TensorFlow,互联网,50-200人,2026-05-15
+NLP工程师,携程数据,广州,11-19K,3-5年,博士,Python、Git、Linux、计算机视觉、机器学习、FastAPI,医疗健康,<50人,2026-07-10
+全栈工程师,华为科技,南京,6-9K,应届生,硕士,Python、Git、Linux、MySQL、NLP、AWS,教育,1000-5000人,2026-06-17
+深度学习工程师,快手网络,深圳,35-59K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、分布式、高并发、FastAPI,电商零售,200-1000人,2026-05-22
+NLP工程师,百度信息,深圳,20-34K,5-10年,本科,Python、Git、Linux、Redis、Flask、深度学习,电商零售,<50人,2026-07-22
+测试开发工程师,B站数据,南京,18-24K,5-10年,硕士,Python、Git、Linux、Django、Redis、Docker,电商零售,<50人,2026-05-10
+计算机视觉工程师,华为科技,广州,22-32K,10年以上,本科,Python、Git、Linux、Spark、Docker、AWS,广告营销,200-1000人,2026-05-04
+数据分析师,京东科技,南京,21-33K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、PyTorch、LangChain、Spark,教育,50-200人,2026-07-06
+深度学习工程师,知乎数据,上海,19-30K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、Spark、Pandas、MySQL,游戏,200-1000人,2026-06-19
+机器学习工程师,美团网络,西安,38-47K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、LangChain、MongoDB、Pandas,互联网,5000人以上,2026-06-02
+机器学习工程师,滴滴网络,西安,9-14K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、计算机视觉、AWS、Django,游戏,200-1000人,2026-06-10
+计算机视觉工程师,B站数据,北京,26-43K,10年以上,本科,Python、Git、Linux、Flask、MongoDB、REST API,电商零售,1000-5000人,2026-06-03
+机器学习工程师,百度网络,成都,30-47K,5-10年,大专,Python、Git、Linux、PyTorch、深度学习、AWS、Redis、机器学习,智能制造,50-200人,2026-05-16
+AI算法工程师,拼多多,上海,13-20K,应届生,博士,Python、Git、Linux、PyTorch、深度学习、MongoDB、Django、Pandas,游戏,<50人,2026-05-24
+数据分析师,百度科技,成都,32-40K,10年以上,本科,Python、Git、Linux、Pandas、数据分析、机器学习、分布式、AWS,医疗健康,50-200人,2026-07-08
+AI算法工程师,网易,深圳,17-26K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、TensorFlow、REST API、LangChain,教育,5000人以上,2026-06-02
+Python数据工程师,字节智能,武汉,19-35K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、LangChain、高并发、Django,互联网,50-200人,2026-05-15
+数据分析师,京东,北京,22-33K,3-5年,大专,Python、Git、Linux、Pandas、数据分析、深度学习、MySQL、TensorFlow,金融科技,1000-5000人,2026-05-06
+数据分析师,B站数据,深圳,20-27K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、机器学习、深度学习、计算机视觉,游戏,<50人,2026-05-17
+机器学习工程师,知乎科技,西安,9-12K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、MongoDB、Spark、分布式,教育,50-200人,2026-07-15
+计算机视觉工程师,知乎数据,北京,7-11K,应届生,大专,Python、Git、Linux、机器学习、数据分析、深度学习,医疗健康,5000人以上,2026-05-03
+计算机视觉工程师,知乎网络,成都,7-9K,1-3年,博士,Python、Git、Linux、机器学习、Django、PyTorch,金融科技,<50人,2026-07-07
+Python数据工程师,贝壳,上海,14-23K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、Django、PyTorch、分布式,医疗健康,200-1000人,2026-06-18
+AI算法工程师,阿里,广州,22-33K,3-5年,硕士,Python、Git、Linux、PyTorch、深度学习、分布式、TensorFlow、Django,教育,200-1000人,2026-05-04
+测试开发工程师,京东网络,武汉,16-26K,5-10年,大专,Python、Git、Linux、REST API、深度学习、Pandas,游戏,<50人,2026-07-11
+NLP工程师,阿里科技,广州,25-39K,10年以上,硕士,Python、Git、Linux、计算机视觉、MySQL、Docker,医疗健康,<50人,2026-05-18
+测试开发工程师,携程科技,南京,21-37K,10年以上,本科,Python、Git、Linux、机器学习、深度学习、TensorFlow,医疗健康,1000-5000人,2026-05-15
+AI算法工程师,B站信息,武汉,12-16K,1-3年,硕士,Python、Git、Linux、PyTorch、深度学习、数据分析、MySQL、FastAPI,金融科技,1000-5000人,2026-07-03
+NLP工程师,小米信息,北京,22-32K,5-10年,本科,Python、Git、Linux、深度学习、Docker、Redis,电商零售,50-200人,2026-05-30
+Python后端工程师,阿里信息,武汉,15-22K,5-10年,大专,Python、Git、Linux、MySQL、REST API、Redis、计算机视觉、Spark,互联网,<50人,2026-07-25
+NLP工程师,小米信息,广州,5-8K,应届生,硕士,Python、Git、Linux、深度学习、Pandas、Redis,医疗健康,50-200人,2026-07-05
+数据分析师,美团科技,广州,8-12K,应届生,大专,Python、Git、Linux、Pandas、数据分析、Docker、机器学习、FastAPI,电商零售,<50人,2026-05-22
+全栈工程师,腾讯科技,成都,25-40K,10年以上,博士,Python、Git、Linux、Redis、NLP、TensorFlow,金融科技,1000-5000人,2026-07-27
+机器学习工程师,拼多多信息,深圳,55-82K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、高并发、Redis、AWS,电商零售,<50人,2026-06-18
+Python数据工程师,B站网络,上海,35-43K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、LangChain、计算机视觉、NLP,电商零售,200-1000人,2026-07-01
+测试开发工程师,字节网络,武汉,15-24K,5-10年,大专,Python、Git、Linux、Flask、机器学习、计算机视觉,电商零售,5000人以上,2026-07-16
+AI算法工程师,字节信息,南京,9-14K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、LangChain、分布式、Django,广告营销,1000-5000人,2026-05-23
+AI算法工程师,贝壳智能,成都,13-18K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、Redis、REST API、Docker,广告营销,200-1000人,2026-06-17
+NLP工程师,滴滴网络,上海,22-33K,5-10年,本科,Python、Git、Linux、高并发、NLP、深度学习,广告营销,<50人,2026-07-22
+AI算法工程师,京东数据,杭州,16-23K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、分布式、AWS、FastAPI,教育,200-1000人,2026-07-11
+全栈工程师,字节智能,广州,22-33K,5-10年,硕士,Python、Git、Linux、Docker、机器学习、TensorFlow,智能制造,5000人以上,2026-07-29
+Python后端工程师,美团信息,北京,27-46K,10年以上,硕士,Python、Git、Linux、MySQL、REST API、数据分析、计算机视觉、分布式,游戏,1000-5000人,2026-07-27
+机器学习工程师,知乎科技,西安,12-20K,1-3年,本科,Python、Git、Linux、PyTorch、深度学习、数据分析、Spark、Flask,医疗健康,50-200人,2026-07-06
+数据分析师,京东数据,北京,10-17K,应届生,大专,Python、Git、Linux、Pandas、数据分析、Docker、MySQL、分布式,游戏,1000-5000人,2026-05-29
+计算机视觉工程师,B站智能,南京,21-30K,10年以上,本科,Python、Git、Linux、计算机视觉、FastAPI、Flask,游戏,5000人以上,2026-06-06
+Python后端工程师,贝壳智能,武汉,6-11K,1-3年,硕士,Python、Git、Linux、MySQL、REST API、分布式、AWS、NLP,金融科技,5000人以上,2026-05-18
+Python数据工程师,B站智能,上海,14-22K,1-3年,硕士,Python、Git、Linux、Pandas、数据分析、FastAPI、REST API、MySQL,医疗健康,5000人以上,2026-07-20
+Python后端工程师,知乎网络,成都,22-31K,10年以上,大专,Python、Git、Linux、MySQL、REST API、计算机视觉、Pandas、NLP,医疗健康,200-1000人,2026-05-26
+数据分析师,网易,北京,43-59K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、TensorFlow、机器学习、PyTorch,医疗健康,1000-5000人,2026-05-11
+AI算法工程师,网易信息,深圳,53-73K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、机器学习、TensorFlow、Docker,电商零售,5000人以上,2026-07-14
+数据分析师,网易数据,武汉,14-23K,3-5年,本科,Python、Git、Linux、Pandas、数据分析、TensorFlow、深度学习、MySQL,电商零售,5000人以上,2026-06-30
+数据分析师,华为数据,武汉,22-29K,5-10年,博士,Python、Git、Linux、Pandas、数据分析、分布式、计算机视觉、TensorFlow,医疗健康,<50人,2026-06-04
+Python后端工程师,知乎信息,深圳,21-32K,5-10年,博士,Python、Git、Linux、MySQL、REST API、高并发、LangChain、数据分析,游戏,1000-5000人,2026-05-31
+全栈工程师,阿里信息,深圳,34-49K,10年以上,博士,Python、Git、Linux、AWS、TensorFlow、Redis,智能制造,1000-5000人,2026-06-03
+计算机视觉工程师,网易,广州,12-17K,3-5年,硕士,Python、Git、Linux、FastAPI、MongoDB、Django,智能制造,50-200人,2026-06-28
+测试开发工程师,字节,西安,5-7K,应届生,大专,Python、Git、Linux、Pandas、计算机视觉、FastAPI,医疗健康,200-1000人,2026-06-08
+深度学习工程师,腾讯智能,北京,14-17K,应届生,大专,Python、Git、Linux、PyTorch、深度学习、Docker、分布式、Redis,电商零售,1000-5000人,2026-05-07
+计算机视觉工程师,网易信息,深圳,7-9K,应届生,本科,Python、Git、Linux、Pandas、LangChain、数据分析,智能制造,200-1000人,2026-06-01
+数据分析师,携程网络,上海,24-30K,3-5年,大专,Python、Git、Linux、Pandas、数据分析、LangChain、Flask、AWS,金融科技,1000-5000人,2026-06-18
+深度学习工程师,美团科技,南京,13-18K,1-3年,博士,Python、Git、Linux、PyTorch、深度学习、Docker、AWS、机器学习,金融科技,<50人,2026-05-22
+AI算法工程师,B站,上海,50-84K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、MySQL、Pandas、机器学习,电商零售,200-1000人,2026-05-28
+机器学习工程师,知乎网络,北京,58-87K,10年以上,博士,Python、Git、Linux、PyTorch、深度学习、Redis、高并发、LangChain,互联网,1000-5000人,2026-06-09
+Python数据工程师,快手数据,上海,42-67K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、MySQL、计算机视觉、深度学习,金融科技,1000-5000人,2026-06-22
+全栈工程师,携程数据,杭州,11-16K,1-3年,大专,Python、Git、Linux、Redis、计算机视觉、Spark,金融科技,1000-5000人,2026-07-06
+深度学习工程师,阿里数据,深圳,11-18K,应届生,本科,Python、Git、Linux、PyTorch、深度学习、高并发、计算机视觉、REST API,广告营销,<50人,2026-05-16
+Python后端工程师,腾讯网络,成都,4-7K,应届生,硕士,Python、Git、Linux、MySQL、REST API、MongoDB、Spark、Flask,教育,<50人,2026-07-15
+Python后端工程师,知乎智能,深圳,19-32K,5-10年,大专,Python、Git、Linux、MySQL、REST API、PyTorch、Django、TensorFlow,医疗健康,<50人,2026-07-25
+Python数据工程师,美团,深圳,42-64K,10年以上,大专,Python、Git、Linux、Pandas、数据分析、MySQL、Django、Spark,智能制造,1000-5000人,2026-05-28
+测试开发工程师,快手科技,上海,33-46K,10年以上,本科,Python、Git、Linux、Redis、LangChain、Docker,游戏,50-200人,2026-07-25
+测试开发工程师,华为智能,西安,7-12K,1-3年,博士,Python、Git、Linux、分布式、高并发、NLP,电商零售,<50人,2026-07-25
+Python数据工程师,百度,上海,10-17K,应届生,大专,Python、Git、Linux、Pandas、数据分析、Spark、REST API、Docker,教育,50-200人,2026-05-01
+全栈工程师,华为科技,西安,18-27K,5-10年,博士,Python、Git、Linux、Spark、高并发、MySQL,医疗健康,200-1000人,2026-05-13
+机器学习工程师,小米,北京,59-84K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、高并发、MongoDB、LangChain,广告营销,50-200人,2026-05-24
+全栈工程师,京东数据,北京,12-16K,1-3年,大专,Python、Git、Linux、TensorFlow、分布式、计算机视觉,医疗健康,50-200人,2026-05-31
+机器学习工程师,腾讯,广州,24-31K,3-5年,博士,Python、Git、Linux、PyTorch、深度学习、TensorFlow、REST API、MongoDB,金融科技,<50人,2026-07-24
+深度学习工程师,贝壳科技,武汉,39-50K,10年以上,硕士,Python、Git、Linux、PyTorch、深度学习、Docker、NLP、LangChain,金融科技,50-200人,2026-05-05
+机器学习工程师,字节网络,杭州,36-60K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、Flask、FastAPI、AWS,电商零售,1000-5000人,2026-05-17
+测试开发工程师,拼多多信息,深圳,22-30K,5-10年,本科,Python、Git、Linux、MongoDB、TensorFlow、LangChain,电商零售,<50人,2026-07-05
+Python数据工程师,快手科技,武汉,22-34K,5-10年,本科,Python、Git、Linux、Pandas、数据分析、Flask、高并发、FastAPI,金融科技,1000-5000人,2026-06-23
+NLP工程师,B站信息,武汉,7-10K,1-3年,博士,Python、Git、Linux、FastAPI、分布式、深度学习,游戏,5000人以上,2026-07-29
+深度学习工程师,贝壳,深圳,57-82K,10年以上,大专,Python、Git、Linux、PyTorch、深度学习、MongoDB、MySQL、Spark,游戏,1000-5000人,2026-07-25
+AI算法工程师,字节智能,武汉,27-39K,5-10年,本科,Python、Git、Linux、PyTorch、深度学习、FastAPI、Flask、数据分析,医疗健康,50-200人,2026-07-29
+AI算法工程师,百度数据,北京,42-63K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、TensorFlow、AWS、高并发,电商零售,1000-5000人,2026-06-02
+数据分析师,字节网络,成都,22-29K,5-10年,大专,Python、Git、Linux、Pandas、数据分析、Spark、LangChain、Django,金融科技,5000人以上,2026-05-03
+测试开发工程师,腾讯,北京,32-50K,10年以上,硕士,Python、Git、Linux、计算机视觉、分布式、Flask,金融科技,5000人以上,2026-06-11
+深度学习工程师,美团数据,深圳,27-41K,3-5年,本科,Python、Git、Linux、PyTorch、深度学习、FastAPI、LangChain、NLP,智能制造,200-1000人,2026-05-30
+NLP工程师,字节信息,南京,10-15K,3-5年,大专,Python、Git、Linux、Redis、Spark、REST API,医疗健康,1000-5000人,2026-06-16
+计算机视觉工程师,B站,成都,5-7K,应届生,本科,Python、Git、Linux、MySQL、Redis、Flask,医疗健康,<50人,2026-07-20
+数据分析师,阿里信息,武汉,11-15K,1-3年,本科,Python、Git、Linux、Pandas、数据分析、Docker、REST API、计算机视觉,游戏,1000-5000人,2026-06-07
+Python后端工程师,阿里科技,广州,8-12K,1-3年,大专,Python、Git、Linux、MySQL、REST API、计算机视觉、分布式、AWS,广告营销,1000-5000人,2026-05-25
+全栈工程师,网易科技,深圳,17-24K,3-5年,本科,Python、Git、Linux、TensorFlow、Docker、计算机视觉,医疗健康,1000-5000人,2026-05-30
+数据分析师,百度科技,深圳,43-65K,10年以上,硕士,Python、Git、Linux、Pandas、数据分析、Docker、Flask、FastAPI,金融科技,<50人,2026-05-01
+测试开发工程师,拼多多科技,深圳,23-30K,5-10年,硕士,Python、Git、Linux、深度学习、计算机视觉、Docker,智能制造,1000-5000人,2026-07-04
+NLP工程师,美团,深圳,30-44K,10年以上,硕士,Python、Git、Linux、Pandas、深度学习、Docker,互联网,5000人以上,2026-06-09
+NLP工程师,滴滴智能,成都,9-16K,3-5年,博士,Python、Git、Linux、Pandas、深度学习、Redis,广告营销,<50人,2026-05-06
+数据分析师,阿里网络,西安,7-10K,应届生,硕士,Python、Git、Linux、Pandas、数据分析、MySQL、深度学习、TensorFlow,教育,5000人以上,2026-05-12
+NLP工程师,阿里,杭州,14-21K,3-5年,本科,Python、Git、Linux、MySQL、AWS、NLP,教育,1000-5000人,2026-05-23
+测试开发工程师,携程科技,西安,5-7K,应届生,硕士,Python、Git、Linux、机器学习、计算机视觉、高并发,医疗健康,1000-5000人,2026-06-06
+NLP工程师,贝壳网络,上海,9-15K,1-3年,博士,Python、Git、Linux、数据分析、分布式、Docker,金融科技,50-200人,2026-06-24
+深度学习工程师,字节智能,广州,30-48K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、机器学习、Spark、Django,广告营销,5000人以上,2026-06-12
+数据分析师,滴滴智能,杭州,12-22K,1-3年,博士,Python、Git、Linux、Pandas、数据分析、分布式、机器学习、REST API,广告营销,50-200人,2026-05-29
+Python后端工程师,滴滴数据,北京,10-15K,1-3年,硕士,Python、Git、Linux、MySQL、REST API、深度学习、Pandas、Django,广告营销,50-200人,2026-05-10
+Python后端工程师,字节智能,上海,15-22K,3-5年,博士,Python、Git、Linux、MySQL、REST API、机器学习、AWS、Docker,智能制造,5000人以上,2026-06-14
+计算机视觉工程师,腾讯科技,北京,14-23K,3-5年,本科,Python、Git、Linux、计算机视觉、Flask、TensorFlow,医疗健康,200-1000人,2026-06-20
+机器学习工程师,滴滴智能,成都,10-13K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、Django、Docker、分布式,智能制造,200-1000人,2026-05-10
+全栈工程师,拼多多科技,广州,14-21K,3-5年,大专,Python、Git、Linux、Spark、数据分析、深度学习,电商零售,<50人,2026-07-29
+深度学习工程师,小米智能,深圳,54-87K,10年以上,本科,Python、Git、Linux、PyTorch、深度学习、高并发、分布式、Docker,游戏,1000-5000人,2026-05-13
+AI算法工程师,知乎信息,上海,19-24K,1-3年,大专,Python、Git、Linux、PyTorch、深度学习、AWS、MongoDB、NLP,电商零售,200-1000人,2026-06-21
+Python后端工程师,京东数据,上海,9-13K,1-3年,本科,Python、Git、Linux、MySQL、REST API、Redis、Pandas、Docker,金融科技,<50人,2026-07-01
+Python数据工程师,美团,南京,7-9K,应届生,本科,Python、Git、Linux、Pandas、数据分析、Redis、LangChain、TensorFlow,金融科技,200-1000人,2026-05-07
+Python后端工程师,小米科技,上海,7-9K,应届生,本科,Python、Git、Linux、MySQL、REST API、机器学习、NLP、高并发,电商零售,5000人以上,2026-05-06
+计算机视觉工程师,美团智能,杭州,27-42K,10年以上,大专,Python、Git、Linux、机器学习、Flask、REST API,互联网,<50人,2026-07-29
+深度学习工程师,百度网络,西安,29-36K,5-10年,硕士,Python、Git、Linux、PyTorch、深度学习、数据分析、Pandas、Spark,教育,5000人以上,2026-05-05
+深度学习工程师,美团网络,南京,9-13K,应届生,硕士,Python、Git、Linux、PyTorch、深度学习、数据分析、计算机视觉、MySQL,金融科技,200-1000人,2026-07-16
+Python数据工程师,B站智能,上海,33-52K,5-10年,硕士,Python、Git、Linux、Pandas、数据分析、FastAPI、高并发、Spark,医疗健康,1000-5000人,2026-06-21
