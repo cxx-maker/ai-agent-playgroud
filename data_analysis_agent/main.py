@@ -108,7 +108,7 @@ if __name__ =="__main__":
     print("启动gradio界面...")
     demo.launch()
 # if __name__ =="__main__":
-#     print("="
+#     print("=" * 50)
 #     print("照片数据分析Agent已启动，输入exit或者quit退出")
 #     print("=" * 50)
 
