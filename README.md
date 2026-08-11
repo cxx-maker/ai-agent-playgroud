@@ -33,6 +33,28 @@
 - 技术栈：LangChain、DeepSeek、Gradio、Pydantic、Chroma、FastEmbed、PyMuPDF
 - **核心技能**：**结构化输出（Structured Output）** —— 让 Agent 返回的对象而不是字符串，可直接用代码访问字段## 技术栈总览
 
+### 6. [resume_optimizer](./resume_optimizer) - AI 简历优化师 ⭐ 最新
+- 上传简历 + 粘贴 JD（可选），给出 HR 爱看的改写建议
+- **多工具协同**：RAG 读简历 + Tavily 搜行业标准
+- **结构化输出**：评分、优势、问题、改写示例、关键词、排版建议
+- 高级 UI：分数染色、Tabs 分组、Examples 快捷按钮
+- 技术栈：LangChain、MiniMax API、Gradio、Pydantic、FastEmbed、Tavily
+
+## 技术栈总览
+
+| 类别 | 技术 | 项目 |
+|---|---|---|
+| Agent 框架 | LangChain 1.x | 全部 |
+| 大模型 | DeepSeek / MiniMax | 全部 |
+| 向量数据库 | Chroma | rag_agent、resume_matcher、resume_optimizer |
+| Embedding | FastEmbed | rag_agent、resume_matcher、resume_optimizer |
+| 联网搜索 | Tavily API | interview_agent、resume_optimizer |
+| 网页界面 | Gradio | data_analysis_agent、interview_agent、resume_matcher、resume_optimizer |
+| 数据分析 | Pandas、Matplotlib | data_analysis_agent |
+| 数据校验 | Pydantic | resume_matcher、resume_optimizer |
+| PDF 读取 | PyMuPDF | resume_matcher、resume_optimizer |
+
+
 ## 技术栈
 - Python 3.11
 - LangChain / LangGraph
