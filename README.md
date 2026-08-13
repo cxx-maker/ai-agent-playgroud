@@ -53,9 +53,18 @@
 | 数据分析 | Pandas、Matplotlib | data_analysis_agent |
 | 数据校验 | Pydantic | resume_matcher、resume_optimizer |
 | PDF 读取 | PyMuPDF | resume_matcher、resume_optimizer |
-
+### 7. [memory_agent](./memory_agent) - 有记忆的 AI 助手 ⭐ 最新
+- 跨对话记住用户信息（名字、偏好、历史问题）
+- 技术：SQLite 长期记忆 + LangChain Agent + Gradio
+- 核心技能：长期记忆管理、SQLite、上下文拼接
+- **演示效果**：开 Gradio → 聊几轮 → 关掉 → 重开 → 问"我叫什么？" → 答得出来
 
 ## 技术栈
 - Python 3.11
 - LangChain / LangGraph
 - DeepSeek API
+ LangChain 1.x
+- DeepSeek / MiniMax（兼容 OpenAI 接口）
+- SQLite（Python 自带）
+- Tavily Search API
+- Gradio
