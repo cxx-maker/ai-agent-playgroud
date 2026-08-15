@@ -59,6 +59,12 @@
 - 核心技能：长期记忆管理、SQLite、上下文拼接
 - **演示效果**：开 Gradio → 聊几轮 → 关掉 → 重开 → 问"我叫什么？" → 答得出来
 
+### 8. [pdd_agent](./pdd_agent) - 拼多多客服助手⭐ 最新
+- 内置 60+ 条 Pinduoduo 规则（退款/卖家/物流/违规/买家保护/话术）
+- RAG 向量库 + Tavily 联网搜
+- Gradio 网页界面，支持买家/卖家两种身份
+- 技术栈：LangChain、DeepSeek、Chroma、FastEmbed、Gradio、Tavily
+- **核心技能**：RAG 文档加载 + 文本切分 + 向量检索 + 多工具协同
 ## 技术栈
 - Python 3.11
 - LangChain / LangGraph
